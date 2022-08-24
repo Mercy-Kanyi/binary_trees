@@ -2,8 +2,7 @@
 
 /**
  * binary_tree_insert_right -
- *@parent: pointer to parent
- *@value: value
+ *
  * Return: whatever
  */
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)

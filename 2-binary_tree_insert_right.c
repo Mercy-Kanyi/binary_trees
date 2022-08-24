@@ -1,8 +1,14 @@
 #include "binary_trees.h"
 
 /**
+<<<<<<< HEAD
  * binary_tree_insert_right -
  *
+=======
+ * binary_tree_insert_right - function name
+ * @parent: binary t
+ * @value: something
+>>>>>>> 41bf5c8a4017ba9ee07c379725853a59ad7b8391
  * Return: whatever
  */
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)

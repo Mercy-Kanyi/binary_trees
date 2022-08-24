@@ -1,9 +1,6 @@
 #include "binary_trees.h"
 
 /**
-
- * binary_tree_insert_right -
- *
  * binary_tree_insert_right - function name
  * @parent: binary t
  * @value: something

@@ -4,9 +4,9 @@
  * bst_insert -
  *
  * Return:
- * value:
- * tree:
- * search:
+ * value: integer
+ * tree: int 
+ * search: for thr tree 
  */
 bst_t *bst_search(const bst_t *tree, int value)
 {

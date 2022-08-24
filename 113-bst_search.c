@@ -1,12 +1,11 @@
 #include "binary_trees.h"
-
 /**
  * bst_insert -
  *
  * Return:
  * value: integer
- * tree: int 
- * search: for thr tree 
+ * tree: int
+ * search: for thr tree
  */
 bst_t *bst_search(const bst_t *tree, int value)
 {
